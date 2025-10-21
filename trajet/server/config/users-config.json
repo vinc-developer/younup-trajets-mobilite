@@ -1,0 +1,20 @@
+{
+	"users": {
+		"exemple@younup.fr": {
+			"name": "Exemple",
+			"firstname": "Utilisateur",
+			"kmOptions": [10, 15, 20],
+			"defaultKm": 15
+		},
+		"test@younup.fr": {
+			"name": "Test",
+			"firstname": "Compte",
+			"kmOptions": [5, 10, 15, 20, 25],
+			"defaultKm": 10
+		}
+	},
+	"defaultConfig": {
+		"kmOptions": [15, 20, 25],
+		"defaultKm": 15
+	}
+}
